@@ -1,10 +1,14 @@
 # computer_vision_projects
 A collection of different computer vision projects
 
-Project 1: Data prep, linear, logistic, softmax, multilayer perceptron classifiers, SGD, Adam
+MiniPlaces Beginner Image Classification Models: Data preparation, linear regression, logistic regression, softmax regression, multilayer perceptron classifier, SGD Optimizer, Adam Optimizer, Result Visualization
+  Packages: numpy, pytorch, matplotlib
 
-Project 2: Data prep, CNNs, ResNet, attention, finetuning, results visualization
+MiniPlaces Intermediate Image Classification Models: Data preparation, Convolutional Nueral Network, ResNet, Attention, Finetuning, Results Visualization
+  Packages: numpy, pytorch, matplotlib
 
-Project 3: Data prep, vision transformer(ViT), ResNeT vs ViT comparison, semantic segmentation, encoder-decoder
-
-Project 4: Data prep, diffusion model, nueral radiance field
+MiniPlaces Advanced Image Classification Models: Data preparation, vision transformer(ViT), ResNeT vs ViT comparison, semantic segmentation, encoder-decoder
+  Packages: numpy, pytorch, matplotlib
+  
+Current Day Image Segmentation Models: Data preparation, diffusion model, U-net, positional encoding, nueral radiance field
+  Packages: matplotlib, numpy, pytorch
